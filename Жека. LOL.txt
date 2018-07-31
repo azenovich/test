@@ -1,1 +1,3 @@
 sadEMPTY
+
+public void Method() { .. }
